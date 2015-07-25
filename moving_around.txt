@@ -1,0 +1,83 @@
+cd
+ls
+pwd
+clear
+clearn
+man less
+history | less
+history 5
+history
+cd Applications/
+cd /
+cd ~
+cd ..
+cd Applications
+ls /
+ls ~
+ls~
+ls -l
+ls -
+ls -la
+ls Applications
+cd 
+cd ../..
+cd Library
+cd Documents
+Documents
+cd coding
+cd/c/Users/ling\li
+man ls
+ls f
+ls t
+ls lt
+ls -r
+ls -rt
+/clear
+ls -lt
+ls -t
+dc
+'eval $'
+$ cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'LI1218@GMAIL.COM'
+git config --global user.name 'LING LI'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew in
+brew info fish
+sudo brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish 
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+echo 
+ec
+brew info
+brew in 
+chsh -s /usr/local/bin/fish
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+cd Desktop
+brew update
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
+> Preference menu item
+Preferences menu item
+> Preferences
+Preference
+svn
+gcc
+rebase
+git
+$prefernce
+Preferences
+system preferences
